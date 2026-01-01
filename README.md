@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshdharme01" alt="rushikeshdharme01" /></a> </p>
 
-- 🔭 I’m currently working on [Tutudute Assignment Projects](https://github.com/rushikeshdharme01)
+- 🔭 I’m currently working on [Tutudute Assignment Projects](https://github.com/rushikeshdharme-dev)
 
 - 🌱 I’m currently learning **Advanced Python, Machine Learning, JQuery, Express js**
 
-- 👯 I’m looking to collaborate on [Real-world MERN Stack Projects, AIML solutions & LMS platforms](https://github.com/rushikeshdharme01)
+- 👯 I’m looking to collaborate on [Real-world MERN Stack Projects, AIML solutions & LMS platforms](https://github.com/rushikeshdharme-dev)
 
 - 🤝 I’m looking for help with [Building a scalable AI-based Learning Management System](https://lms.upgradeyourchild.in)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rushikeshdharme01](https://github.com/rushikeshdharme01)
+- 👨‍💻 All of my projects are available at [https://github.com/rushikeshdharme01](https://github.com/rushikeshdharme-dev)
 
 - 💬 Ask me about **MERN Stack, jQuery validation, React, AI concepts, LMS systems**
 
-- 📫 How to reach me **rushikeshdharme01@gmail.com**
+- 📫 How to reach me **rushikeshdharme.dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fcwtZaBf0_2mJ47J8sb1NwCWZKIAQSlm/view?usp=drive_link](https://drive.google.com/file/d/1fcwtZaBf0_2mJ47J8sb1NwCWZKIAQSlm/view?usp=drive_link)
 
