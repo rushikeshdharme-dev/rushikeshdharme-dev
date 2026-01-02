@@ -65,7 +65,7 @@
 
 I’m an **international-level Mallakhamb athlete**, having represented **India in Malaysia and Indonesia** — bringing discipline, consistency, and focus into engineering.
 
----## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushikeshdharme-dev&show_icons=true&theme=default)
 
